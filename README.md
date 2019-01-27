@@ -1,7 +1,4 @@
-# TheCaesarCipher
-Caesar Cipher in Action
-
-## The Caesar Cipher
+# The Caesar Cipher
 
 The idea of the Caesar Cipher is to pick an integer and shift every letter of your message by that integer. In other words, suppose the shift is k . Then, all instances of the i-th letter of the alphabet that appear in the plaintext should become the (i+k)-th letter of the alphabet in the ciphertext. You will need to be careful with the case in which i + k > 26 (the length of the alphabet). Here is what the whole alphabet looks like shifted three spots to the right:
 
